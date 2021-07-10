@@ -1,0 +1,119 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.8;
+  text-align: center;
+  background-color: #DDDDDD;
+}
+h1, h2 {
+  font-family: 'Montserrat Black', sans-serif;
+}
+ul {
+  text-align: center;
+  margin: 0;
+  padding: 15px;
+  background-color: black;
+}
+li {
+  display: inline;
+}
+a {
+  text-decoration: none;
+  color: #EEEEEE;
+  font-family: 'Open Sans', sans-serif;
+  padding: 20px;
+}
+a:hover {
+  color: #fff;
+}
+.container-b {
+  background-color: #fff;
+  width: 50%;
+  text-align: right;
+  background-color: #DDDDDD;
+
+}
+.column {
+  border-radius: 13px;
+  border: 2px solid black;
+  width: 50%;
+  height: 100%;
+  position: relative;
+  left: 40%;
+}
+.column-1 {
+  background-color: #DDDDDD;
+}
+.column-2 {
+  background-color: white;
+  padding: 10px;
+}
+.column-3 {
+  background-color: #FFC947;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+}
+.column-4 {
+position: absolute;
+top: 160px;
+right: 100px;
+line-height: 4;
+text-align: center;
+}
+.container-c
+{
+  background-color: #334257;
+    height: 150px;
+    text-align: center;
+    word-spacing: 3px;
+}
+.c3 {
+  width: 50%;
+  font-size: 10em;
+  font-family: 'Montserrat Black', sans-serif;
+  margin: 0;
+  position: relative;
+  left: 30%;
+}
+.pc1 {
+  width: 80%;
+  position: relative;
+  left: 20%;
+}
+.c2 {
+  width: 30%;
+  position: relative;
+  left: 35%;
+  text-align: right;
+}
+.btn {
+  background: #e0751d;
+  background-image: -webkit-linear-gradient(top, #e0751d, #ff9b05);
+  background-image: -moz-linear-gradient(top, #e0751d, #ff9b05);
+  background-image: -ms-linear-gradient(top, #e0751d, #ff9b05);
+  background-image: -o-linear-gradient(top, #e0751d, #ff9b05);
+  background-image: linear-gradient(to bottom, #e0751d, #ff9b05);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fc8600;
+  background-image: -webkit-linear-gradient(top, #fc8600, #ff9500);
+  background-image: -moz-linear-gradient(top, #fc8600, #ff9500);
+  background-image: -ms-linear-gradient(top, #fc8600, #ff9500);
+  background-image: -o-linear-gradient(top, #fc8600, #ff9500);
+  background-image: linear-gradient(to bottom, #fc8600, #ff9500);
+  text-decoration: none;
+
+}
+.cc {
+  padding-top: 30px;
+  color: #DDDDDD;
+}
